@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Corner Report - Your hub for high-quality, text-based educational content.">
+    <meta name="robots" content="index, follow">
+    <meta name="author" content="Corner Report">
+    <meta name="keywords" content="education, history, economics, text-based learning, Corner Report">
+    <title>Corner Report</title>
+    <link rel="stylesheet" href="style.css">
+    <script defer src="script.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Corner Report</h1>
+            <p>Learn, Grow, and Explore</p>
+        </div>
+    </header>
+    <nav>
+        <button class="menu-toggle">☰</button>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#content">Content</a></li>
+            <li><a href="#ads">Support Us</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="home">
+            <h2>Welcome to Corner Report</h2>
+            <p>Your hub for concise, high-quality educational content.</p>
+        </section>
+        <section id="about">
+            <h2>About Us</h2>
+            <p>We aim to provide text-based educational resources for learners of all levels.</p>
+        </section>
+        <section id="content">
+            <h2>Educational Content</h2>
+            <article>
+                <h3>The Basics of Economics</h3>
+                <p>Learn the fundamentals of supply, demand, and market structures.</p>
+            </article>
+            <article>
+                <h3>History Simplified</h3>
+                <p>Dive into the events that shaped our modern world.</p>
+            </article>
+        </section>
+        <section id="ads">
+            <h2>Support Us</h2>
+            <p>Ads help us keep our content free for everyone:</p>
+            <div class="ad-space">
+                Ad 1: Learn more with Corner Report!
+            </div>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <p>Email: <a href="mailto:cornereport@gmail.com">cornereport@gmail.com</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Corner Report. All rights reserved.</p>
+    </footer>
+</body>
+</html>
